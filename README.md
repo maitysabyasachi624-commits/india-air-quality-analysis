@@ -28,4 +28,10 @@ An interactive Power BI analytics project exploring historical Air Quality Index
 ---
 
 ## 🖥️ Dashboard Previews
-*(Insert screenshots of your City Overview, Trends & Seasonality, and Pollutant Analysis tabs here)*
+### 1. City Overview
+*(<img width="1329" height="751" alt="Page-1" src="https://github.com/user-attachments/assets/73844373-9196-4883-8984-4ce7c5c8035d" />
+### 2. Trends & Seasonality
+<img width="1327" height="752" alt="Page-2" src="https://github.com/user-attachments/assets/bdaca62f-874e-4f20-9dee-bd34d2b70dc8" />
+### 3. Pollutant Analysis
+<img width="1326" height="748" alt="Page-3" src="https://github.com/user-attachments/assets/a3965f69-afea-4594-bfd5-7bb2fd1ca39c" />
+Insert screenshots of your City Overview, Trends & Seasonality, and Pollutant Analysis tabs here)*
