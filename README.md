@@ -20,7 +20,7 @@ An interactive Power BI analytics project exploring historical Air Quality Index
 ---
 
 ## 📂 Repository Structure
-- `Data/`: Source air quality datasets.
+- `Clean/`: Source air quality datasets.
 - `SQL/`: Extraction scripts and aggregation queries.
 - `Power_BI/`: `.pbix` dashboard model, layout templates, and visual assets.
 - `Docs/`: Project design documentation and methodology notes.
